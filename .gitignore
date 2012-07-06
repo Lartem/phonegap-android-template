@@ -14,3 +14,10 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# my sublime project files
+*.sublime-project
+*.sublime-workspace
+
+# target directory at all
+target/
